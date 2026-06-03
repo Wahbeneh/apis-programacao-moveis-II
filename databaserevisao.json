@@ -1,0 +1,64 @@
+{
+  "pessoas": [
+    {
+      "nome": "Ana Silva",
+      "anoNascimento": 1990,
+      "altura": 1.68,
+      "massa": 62
+    },
+    {
+      "nome": "Bruno Souza",
+      "anoNascimento": 1985,
+      "altura": 1.80,
+      "massa": 78
+    },
+    {
+      "nome": "Carla Mendes",
+      "anoNascimento": 1995,
+      "altura": 1.72,
+      "massa": 65
+    },
+    {
+      "nome": "Diego Oliveira",
+      "anoNascimento": 1988,
+      "altura": 1.75,
+      "massa": 82
+    },
+    {
+      "nome": "Eduarda Lima",
+      "anoNascimento": 1992,
+      "altura": 1.60,
+      "massa": 55
+    },
+    {
+      "nome": "Felipe Costa",
+      "anoNascimento": 1987,
+      "altura": 1.83,
+      "massa": 85
+    },
+    {
+      "nome": "Gabriela Rocha",
+      "anoNascimento": 1998,
+      "altura": 1.70,
+      "massa": 60
+    },
+    {
+      "nome": "Henrique Alves",
+      "anoNascimento": 1991,
+      "altura": 1.78,
+      "massa": 74
+    },
+    {
+      "nome": "Isabela Martins",
+      "anoNascimento": 1996,
+      "altura": 1.65,
+      "massa": 58
+    },
+    {
+      "nome": "João Pereira",
+      "anoNascimento": 1984,
+      "altura": 1.82,
+      "massa": 88
+    }
+  ]
+}
