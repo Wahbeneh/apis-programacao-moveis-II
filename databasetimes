@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Flamengo",
+    "poder": 95,
+    "categoria": "Série A"
+  },
+  {
+    "nome": "Palmeiras",
+    "poder": 97,
+    "categoria": "Série B"
+  },
+  {
+    "nome": "São Paulo",
+    "poder": 88,
+    "categoria": "Série C"
+  },
+  {
+    "nome": "Corinthians",
+    "poder": 87,
+    "categoria": "Série B"
+  },
+  {
+    "nome": "Santos",
+    "poder": 84,
+    "categoria": "Série C"
+  },
+  {
+    "nome": "Vasco da Gama",
+    "poder": 83,
+    "categoria": "Série A"
+  },
+  {
+    "nome": "Grêmio",
+    "poder": 89,
+    "categoria": "Série A"
+  },
+  {
+    "nome": "Internacional",
+    "poder": 90,
+    "categoria": "Série A"
+  },
+  {
+    "nome": "Atlético Mineiro",
+    "poder": 91,
+    "categoria": "Série B"
+  },
+  {
+    "nome": "Cruzeiro",
+    "poder": 86,
+    "categoria": "Série C"
+  }
+]
